@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploadercarse",
+        "uuid": 2142564,
+        "checksum": "e0sit4"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
